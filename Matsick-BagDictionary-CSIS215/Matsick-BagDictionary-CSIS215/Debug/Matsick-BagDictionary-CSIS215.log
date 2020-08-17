@@ -1,0 +1,4 @@
+﻿  bagtestmain.cpp
+C:\Users\caleb\Documents\Liberty\Sophmore Spring\CSIS 215\Liberty-University-CSIS215\caleb_matsick_Bag_Assignment\Matsick-BagDictionary-CSIS215\Matsick-BagDictionary-CSIS215\book.h(78,1): warning C4005: 'INFINITY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : see previous definition of 'INFINITY'
+  Matsick-BagDictionary-CSIS215.vcxproj -> C:\Users\caleb\Documents\Liberty\Sophmore Spring\CSIS 215\Liberty-University-CSIS215\caleb_matsick_Bag_Assignment\Matsick-BagDictionary-CSIS215\Debug\Matsick-BagDictionary-CSIS215.exe
